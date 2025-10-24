@@ -2,6 +2,8 @@
 
 ![workflow](https://github.com/tomsilver/relational-structs/actions/workflows/ci.yml/badge.svg)
 
+⚠️ This code has been moved: https://github.com/Princeton-Robot-Planning-and-Learning/prpl-mono ⚠️
+
 Data structures for relational state and action spaces in robot environments.
 
 Derived from [predicators](https://github.com/Learning-and-Intelligent-Systems/predicators).
